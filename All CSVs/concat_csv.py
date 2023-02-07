@@ -20,6 +20,6 @@ df9 = pd.read_csv('glassdoor_jobs_9.csv')
 df10 = pd.read_csv('glassdoor_jobs_10.csv')
 df11 = pd.read_csv('glassdoor_jobs_11.csv')
 
-final_df = pd.concat([df1, df2, df3, df4, df5, df6, df7, df8, df9, df10, df11])
+final_df = pd.concat([df1, df2, df3, df4, df5, df6, df7, df8, df9, df10, df11]).reset_index(drop=True)
 
 final_df.to_csv('glassdoor_jobs_final.csv', index = False)
