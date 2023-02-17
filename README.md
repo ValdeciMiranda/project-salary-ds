@@ -1,7 +1,10 @@
-# ds_salary_proj
+# Projeto de salario de cientista de dados Glassdoor USA
 
-##Resources
+##Recursos usados
 
-https://github.com/arapfaik/scraping-glassdoor-selenium
+Eu adaptei o códgigo do scrapper desse cara -> https://github.com/arapfaik/scraping-glassdoor-selenium
 
-This is a test project that I created to learn more about data science.
+Todo esse projeto é na verdade um projeto para aprendizado próprio e fiz com base nessa video aula -> https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
+
+
+
